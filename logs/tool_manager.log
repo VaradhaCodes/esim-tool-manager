@@ -1,0 +1,169 @@
+[2025-03-30 17:22:06] [CHECK] Tool: ngspice | Status: INSTALLED | Path: C:\ProgramData\chocolatey\bin\ngspice.EXE
+[2025-03-30 17:22:06] [CHECK] Tool: ngspice | Status: VERSION | Parsed from folder name: 41_64
+[2025-03-30 17:22:06] [CHECK] Tool: kicad | Status: NOT_INSTALLED | 
+[2025-03-30 18:35:10] [INSTALL] Tool: kicad | Status: SUCCESS | Installed on Windows using Chocolatey.
+[2025-03-30 18:35:27] [INSTALL] Tool: ghdl | Status: FAIL | Chocolatey install failed or permissions issue
+[2025-03-30 18:46:52] [CHECK] Tool: ngspice | Status: INSTALLED | Path: C:\ProgramData\chocolatey\bin\ngspice.EXE
+[2025-03-30 18:46:52] [CHECK] Tool: ngspice | Status: VERSION | Parsed from folder name: 41_64
+[2025-03-30 18:46:52] [CHECK] Tool: kicad | Status: NOT_INSTALLED | 
+[2025-03-30 18:46:52] [CHECK] Tool: ghdl | Status: NOT_INSTALLED | 
+[2025-03-30 18:51:57] [CHECK] Tool: ngspice | Status: INSTALLED | Path: C:\ProgramData\chocolatey\bin\ngspice.EXE
+[2025-03-30 18:51:57] [CHECK] Tool: ngspice | Status: VERSION | Parsed from folder name: 41_64
+[2025-03-30 18:51:57] [CHECK] Tool: kicad | Status: INSTALLED | Path: C:\Program Files\KiCad\9.0\bin\kicad.exe
+[2025-03-30 18:51:57] [CHECK] Tool: kicad | Status: VERSION | Exception when running --version
+[2025-03-30 19:03:27] [UPDATE] Tool: ngspice | Status: SUCCESS | Updated using Chocolatey.
+[2025-03-30 19:04:36] [UPDATE] Tool: kicad | Status: SUCCESS | Updated using Chocolatey.
+[2025-04-02 23:05:36] [CONFIG] Tool: ngspice | Status: OK | Path present in PATH
+[2025-04-02 23:05:36] [CONFIG] Tool: kicad | Status: MISSING | Expected path not found in PATH
+[2025-04-02 23:06:07] [CHECK] Tool: ngspice | Status: INSTALLED | Path: C:\ProgramData\chocolatey\bin\ngspice.EXE
+[2025-04-02 23:06:07] [CHECK] Tool: ngspice | Status: VERSION | Parsed from folder name: 41_64
+[2025-04-02 23:06:07] [CHECK] Tool: kicad | Status: INSTALLED | Path: C:\Program Files\KiCad\9.0\bin\kicad.exe
+[2025-04-02 23:06:07] [CHECK] Tool: kicad | Status: VERSION | Exception when running --version
+[2025-04-03 00:20:25] [CHECK] Tool: ngspice | Status: INSTALLED | Path: C:\ProgramData\chocolatey\bin\ngspice.EXE
+[2025-04-03 00:20:25] [CHECK] Tool: ngspice | Status: VERSION | Parsed from folder name: 41_64
+[2025-04-03 00:20:25] [CHECK] Tool: kicad | Status: INSTALLED | Path: C:\Program Files\KiCad\9.0\bin\kicad.exe
+[2025-04-03 00:20:25] [CHECK] Tool: kicad | Status: VERSION | Exception when running --version
+[2025-04-03 00:20:32] [CONFIG] Tool: ngspice | Status: OK | Path present in PATH
+[2025-04-03 00:20:32] [CONFIG] Tool: kicad | Status: MISSING | Expected path not found in PATH
+[2025-04-03 01:17:21] [UPDATE] Tool: ngspice | Status: SUCCESS | Updated using Chocolatey.
+[2025-04-03 01:17:33] [CHECK] Tool: ngspice | Status: INSTALLED | Path: C:\ProgramData\chocolatey\bin\ngspice.EXE
+[2025-04-03 01:17:33] [CHECK] Tool: ngspice | Status: VERSION | Parsed from folder name: 41_64
+[2025-04-03 01:17:33] [CHECK] Tool: kicad | Status: INSTALLED | Path: C:\Program Files\KiCad\9.0\bin\kicad.exe
+[2025-04-03 01:17:33] [CHECK] Tool: kicad | Status: VERSION | Exception when running --version
+[2025-04-03 01:20:32] [UPDATE] Tool: ngspice | Status: SUCCESS | Updated using Chocolatey.
+[2025-04-03 01:20:55] [UPDATE] Tool: kicad | Status: FAIL | Update command failed
+[2025-04-03 01:27:41] [UNINSTALL] Tool: ngspice | Status: FAIL | Uninstall command failed.
+[2025-04-03 01:33:41] [UNINSTALL] Tool: ngspice | Status: SUCCESS | Uninstalled using Chocolatey.
+[2025-04-03 01:33:57] [INSTALL] Tool: ngspice | Status: SUCCESS | Installed on Windows using Chocolatey.
+[2025-04-03 01:34:05] [UPDATE] Tool: ngspice | Status: SUCCESS | Updated using Chocolatey.
+[2025-04-03 01:34:17] [UNINSTALL] Tool: ngspice | Status: SUCCESS | Uninstalled using Chocolatey.
+[2025-04-03 01:34:26] [UPDATE] Tool: ngspice | Status: SUCCESS | Updated using Chocolatey.
+[2025-04-03 01:34:30] [CHECK] Tool: ngspice | Status: INSTALLED | Path: C:\ProgramData\chocolatey\bin\ngspice.EXE
+[2025-04-03 01:34:30] [CHECK] Tool: ngspice | Status: VERSION | Parsed from folder name: 41_64
+[2025-04-03 01:34:30] [CHECK] Tool: kicad | Status: INSTALLED | Path: C:\Program Files\KiCad\9.0\bin\kicad.exe
+[2025-04-03 01:34:30] [CHECK] Tool: kicad | Status: VERSION | Exception when running --version
+[2025-04-03 01:36:38] [UPDATE] Tool: kicad | Status: SUCCESS | Updated using Chocolatey.
+[2025-04-06 15:17:09] [CONFIG] Tool: ngspice | Status: OK | Path present in PATH
+[2025-04-06 15:17:09] [CONFIG] Tool: kicad | Status: MISSING | Expected path not found in PATH
+[2025-04-06 17:53:00] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 17:53:09] [UNINSTALL] Tool: ngspice | Status: SUCCESS | Uninstalled via Chocolatey
+[2025-04-06 17:53:17] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 17:53:27] [UNINSTALL] Tool: kicad | Status: FAIL | Uninstall command failed
+[2025-04-06 17:55:54] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 17:56:03] [UNINSTALL] Tool: kicad | Status: FAIL | Uninstall command failed
+[2025-04-06 17:57:26] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 17:57:40] [UNINSTALL] Tool: kicad | Status: FORCE_SUCCESS | Fallback uninstall succeeded
+[2025-04-06 17:58:48] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 17:58:59] [INSTALL] Tool: ngspice | Status: SUCCESS | Installed via Chocolatey
+[2025-04-06 17:59:04] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 17:59:04] [CHECK] Tool: ngspice | Status: INSTALLED | 
+[2025-04-06 17:59:04] [CHECK] Tool: ngspice | Status: VERSION | 41
+[2025-04-06 17:59:04] [CHECK] Tool: kicad | Status: INSTALLED | 
+[2025-04-06 17:59:04] [CHECK] Tool: kicad | Status: VERSION | 9.0
+[2025-04-06 17:59:22] [CONFIGURE] Tool: C:\ProgramData\chocolatey\bin | Status: OK | In PATH already
+[2025-04-06 18:02:08] [CONFIGURE] Tool: C:\ProgramData\chocolatey\bin | Status: OK | In PATH already
+[2025-04-06 18:02:11] [CONFIGURE] Tool: C:\ProgramData\chocolatey\bin | Status: OK | In PATH already
+[2025-04-06 18:02:21] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 18:02:21] [CHECK] Tool: ngspice | Status: INSTALLED | 
+[2025-04-06 18:02:21] [CHECK] Tool: ngspice | Status: VERSION | 41
+[2025-04-06 18:02:21] [CHECK] Tool: kicad | Status: INSTALLED | 
+[2025-04-06 18:02:21] [CHECK] Tool: kicad | Status: VERSION | 9.0
+[2025-04-06 18:02:41] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 18:02:42] [UNINSTALL] Tool: kicad | Status: FAIL | Uninstall command failed
+[2025-04-06 18:03:26] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 18:03:27] [UNINSTALL] Tool: kicad | Status: FAIL | Uninstall command failed
+[2025-04-06 18:03:45] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 18:03:45] [CHECK] Tool: ngspice | Status: INSTALLED | 
+[2025-04-06 18:03:45] [CHECK] Tool: ngspice | Status: VERSION | 41
+[2025-04-06 18:03:45] [CHECK] Tool: kicad | Status: INSTALLED | 
+[2025-04-06 18:03:45] [CHECK] Tool: kicad | Status: VERSION | 9.0
+[2025-04-06 18:03:54] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 18:03:55] [UNINSTALL] Tool: kicad | Status: FAIL | Uninstall command failed
+[2025-04-06 18:05:45] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 18:05:45] [CHECK] Tool: ngspice | Status: INSTALLED | 
+[2025-04-06 18:05:45] [CHECK] Tool: ngspice | Status: VERSION | 41
+[2025-04-06 18:05:45] [CHECK] Tool: kicad | Status: NOT_INSTALLED | 
+[2025-04-06 18:05:53] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 18:05:53] [INSTALL] Tool: ngspice | Status: DETECTED_VERSION | 41
+[2025-04-06 18:06:01] [INSTALL] Tool: ngspice | Status: UPGRADED | Upgraded via Chocolatey
+[2025-04-06 18:06:17] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 18:07:37] [UPDATE] Tool: kicad | Status: INSTALL | Success
+[2025-04-06 18:08:36] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 18:08:36] [CHECK] Tool: ngspice | Status: INSTALLED | 
+[2025-04-06 18:08:36] [CHECK] Tool: ngspice | Status: VERSION | 41
+[2025-04-06 18:08:36] [CHECK] Tool: kicad | Status: INSTALLED | 
+[2025-04-06 18:08:36] [CHECK] Tool: kicad | Status: VERSION | 9.0
+[2025-04-06 18:08:45] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 18:08:46] [UPDATE] Tool: kicad | Status: UPGRADE | Success
+[2025-04-06 18:09:17] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 18:09:17] [CHECK] Tool: ngspice | Status: INSTALLED | 
+[2025-04-06 18:09:17] [CHECK] Tool: ngspice | Status: VERSION | 41
+[2025-04-06 18:09:17] [CHECK] Tool: kicad | Status: INSTALLED | 
+[2025-04-06 18:09:17] [CHECK] Tool: kicad | Status: VERSION | 9.0
+[2025-04-06 18:13:35] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 18:13:35] [CHECK] Tool: ngspice | Status: INSTALLED | 
+[2025-04-06 18:13:35] [CHECK] Tool: ngspice | Status: VERSION | 41
+[2025-04-06 18:13:35] [CHECK] Tool: kicad | Status: INSTALLED | 
+[2025-04-06 18:13:36] [CHECK] Tool: kicad | Status: VERSION | 9.0
+[2025-04-06 18:14:18] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 18:14:18] [CHECK] Tool: ngspice | Status: INSTALLED | 
+[2025-04-06 18:14:18] [CHECK] Tool: ngspice | Status: VERSION | 41
+[2025-04-06 18:14:18] [CHECK] Tool: kicad | Status: INSTALLED | 
+[2025-04-06 18:14:18] [CHECK] Tool: kicad | Status: VERSION | 9.0
+[2025-04-06 18:16:43] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 18:16:43] [CHECK] Tool: ngspice | Status: INSTALLED | 
+[2025-04-06 18:16:46] [CHECK] Tool: ngspice | Status: NO_VERSION | 
+[2025-04-06 18:16:46] [CHECK] Tool: kicad | Status: INSTALLED | 
+[2025-04-06 18:16:47] [CHECK] Tool: kicad | Status: VERSION | 9.0.1
+[2025-04-06 18:17:01] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 18:17:01] [CHECK] Tool: ngspice | Status: INSTALLED | 
+[2025-04-06 18:17:09] [CHECK] Tool: ngspice | Status: NO_VERSION | 
+[2025-04-06 18:17:09] [CHECK] Tool: kicad | Status: INSTALLED | 
+[2025-04-06 18:17:10] [CHECK] Tool: kicad | Status: VERSION | 9.0.1
+[2025-04-06 18:18:20] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 18:18:20] [CHECK] Tool: ngspice | Status: INSTALLED | 
+[2025-04-06 18:18:23] [CHECK] Tool: ngspice | Status: NO_VERSION | 
+[2025-04-06 18:18:23] [CHECK] Tool: kicad | Status: INSTALLED | 
+[2025-04-06 18:18:24] [CHECK] Tool: kicad | Status: VERSION | 9.0.1
+[2025-04-06 18:19:25] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 18:19:25] [CHECK] Tool: ngspice | Status: INSTALLED | 
+[2025-04-06 18:19:25] [CHECK] Tool: ngspice | Status: VERSION | 41
+[2025-04-06 18:19:25] [CHECK] Tool: kicad | Status: INSTALLED | 
+[2025-04-06 18:19:26] [CHECK] Tool: kicad | Status: VERSION | 9.0.1
+[2025-04-06 18:19:39] [CONFIGURE] Tool: C:\ProgramData\chocolatey\bin | Status: OK | In PATH already
+[2025-04-06 18:23:20] [CONFIGURE] Tool: C:\ProgramData\chocolatey\bin | Status: OK | Already in PATH
+[2025-04-06 18:23:20] [CONFIGURE] Tool: KiCad bin | Status: NOT_FOUND | Folder C:\Program Files\KiCad\bin doesn't exist
+[2025-04-06 18:23:20] [CONFIGURE] Tool: ngspice install | Status: NOT_FOUND | Folder C:\ProgramData\chocolatey\lib\ngspice\tools\ngspice-41_64 doesn't exist
+[2025-04-06 18:23:33] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 18:23:33] [CHECK] Tool: ngspice | Status: INSTALLED | 
+[2025-04-06 18:23:33] [CHECK] Tool: ngspice | Status: VERSION | 41
+[2025-04-06 18:23:33] [CHECK] Tool: kicad | Status: INSTALLED | 
+[2025-04-06 18:23:34] [CHECK] Tool: kicad | Status: VERSION | 9.0.1
+[2025-04-06 18:25:16] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 18:25:16] [CHECK] Tool: ngspice | Status: INSTALLED | 
+[2025-04-06 18:25:16] [CHECK] Tool: ngspice | Status: VERSION | 41
+[2025-04-06 18:25:16] [CHECK] Tool: kicad | Status: INSTALLED | 
+[2025-04-06 18:25:17] [CHECK] Tool: kicad | Status: VERSION | 9.0.1
+[2025-04-06 18:25:21] [CONFIGURE] Tool: C:\ProgramData\chocolatey\bin | Status: OK | Already in PATH
+[2025-04-06 18:25:21] [CONFIGURE] Tool: C:\Program Files\KiCad\9.0\bin | Status: MISSING | 
+[2025-04-06 18:25:35] [CONFIGURE] Tool: C:\Program Files\KiCad\9.0\bin | Status: SUCCESS | Added to PATH
+[2025-04-06 18:25:47] [CONFIGURE] Tool: C:\ProgramData\chocolatey\bin | Status: OK | Already in PATH
+[2025-04-06 18:25:47] [CONFIGURE] Tool: C:\Program Files\KiCad\9.0\bin | Status: MISSING | 
+[2025-04-06 18:25:51] [CONFIGURE] Tool: C:\Program Files\KiCad\9.0\bin | Status: SUCCESS | Added to PATH
+[2025-04-06 18:27:01] [CONFIGURE] Tool: C:\ProgramData\chocolatey\bin | Status: OK | Already in PATH
+[2025-04-06 18:27:01] [CONFIGURE] Tool: C:\Program Files\KiCad\9.0\bin | Status: MISSING | 
+[2025-04-06 18:27:03] [CONFIGURE] Tool: C:\Program Files\KiCad\9.0\bin | Status: SUCCESS | Added to PATH
+[2025-04-06 18:27:19] [CONFIGURE] Tool: C:\ProgramData\chocolatey\bin | Status: OK | Already in PATH
+[2025-04-06 18:27:19] [CONFIGURE] Tool: C:\Program Files\KiCad\9.0\bin | Status: MISSING | 
+[2025-04-06 18:27:21] [CONFIGURE] Tool: C:\Program Files\KiCad\9.0\bin | Status: SUCCESS | Added to PATH
+[2025-04-06 18:29:12] [CONFIGURE] Tool: C:\ProgramData\chocolatey\bin | Status: OK | Already in PATH
+[2025-04-06 18:29:12] [CONFIGURE] Tool: C:\Program Files\KiCad\9.0\bin | Status: MISSING | 
+[2025-04-06 18:29:14] [CONFIGURE] Tool: C:\Program Files\KiCad\9.0\bin | Status: FAIL | PATH too long
+[2025-04-06 18:29:16] [CONFIGURE] Tool: C:\ProgramData\chocolatey\bin | Status: OK | Already in PATH
+[2025-04-06 18:29:16] [CONFIGURE] Tool: C:\Program Files\KiCad\9.0\bin | Status: MISSING | 
+[2025-04-06 18:29:19] [CONFIGURE] Tool: C:\Program Files\KiCad\9.0\bin | Status: FAIL | PATH too long
+[2025-04-06 18:30:48] [CONFIGURE] Tool: C:\ProgramData\chocolatey\bin | Status: OK | Already in PATH
+[2025-04-06 18:30:48] [CONFIGURE] Tool: C:\Program Files\KiCad\9.0\bin | Status: MISSING | 
+[2025-04-06 18:30:50] [CONFIGURE] Tool: C:\Program Files\KiCad\9.0\bin | Status: FAIL | PATH too long
+[2025-04-06 18:31:05] [DEPENDENCIES] Tool: system | Status: OK | All checks passed
+[2025-04-06 18:31:12] [UNINSTALL] Tool: ngspice | Status: SUCCESS | Uninstalled via Chocolatey
