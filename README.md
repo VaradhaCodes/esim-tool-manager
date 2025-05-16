@@ -39,8 +39,8 @@ I didn’t want to half-support Linux or Mac — so this is fully Windows-focuse
 ### Step 3: Clone the repo
 
 ```bash
-git clone <https://github.com/VaradhaCodes/esim-tool-manager>
-cd tool-manager-folder
+git clone https://github.com/VaradhaCodes/esim-tool-manager.git
+cd esim-tool-manager
 ```
 
 ### Step 4: Install Python dependencies
