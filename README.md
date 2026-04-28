@@ -1,34 +1,34 @@
-# eSim Tool Manager — README
+# eSim Tool Manager - README
 
-This was part of a FOSSEE Fellowship task. The goal? Build a working CLI-based tool manager that can handle installation, version checking, updates, and PATH validation for tools like ngspice and KiCad. I focused entirely on Windows — didn’t bother with Linux or Mac because I wanted to go all-in on making one platform work cleanly.
+This was part of a FOSSEE Fellowship task. The goal? Build a working CLI-based tool manager that can handle installation, version checking, updates, and PATH validation for tools like ngspice and KiCad. I focused entirely on Windows - didn’t bother with Linux or Mac because I wanted to go all-in on making one platform work cleanly.
 
 ---
 
-## 🚀 What It Can Do
+## What It Can Do
 
 - Install ngspice or KiCad with Chocolatey (on Windows)
 - Check if those tools are already installed, and what version
 - Detect if your PATH is broken (and optionally fix it)
 - Run basic sanity checks (Python version, admin rights, etc.)
 - Give you a clean CLI *or* a simple menu UI if you don’t like typing commands
-- Log everything it does — good or bad — to a file
+- Log everything it does - good or bad - to a file
 
 ---
 
-## 📦 Tools This Manages
+## Tools This Manages
 
 | Tool    | Expected Version |
 | ------- | ---------------- |
 | ngspice | 41.0.0           |
 | KiCad   | 9.0              |
 
-(If you’ve got a different version, it’ll tell you — and you can upgrade right from the CLI.)
+(If you’ve got a different version, it’ll tell you - and you can upgrade right from the CLI.)
 
 ---
 
-## 🔧 Setup (Windows Only)
+## Setup (Windows Only)
 
-I didn’t want to half-support Linux or Mac — so this is fully Windows-focused and tested.
+I didn’t want to half-support Linux or Mac - so this is fully Windows-focused and tested.
 
 ### Step 1: Install Chocolatey
 
@@ -45,13 +45,13 @@ cd esim-tool-manager
 
 ### Step 4: Install Python dependencies
 
-If you want to use the interactive menu, you'll need to install `typer` — so just run this:
+If you want to use the interactive menu, you'll need to install `typer` - so just run this:
 
 ```bash
 pip install typer
 ```
 
-Highly recommend using the menu — it makes it way easier to test everything in one place without typing out each command.
+Highly recommend using the menu - it makes it way easier to test everything in one place without typing out each command.
 
 ---
 
@@ -88,11 +88,11 @@ python main.py diagnose
 python menu.py
 ```
 
-It’s a basic numbered menu — nothing fancy, but it saves a hell of a lot of time when you just want to get stuff done quickly.
+It’s a basic numbered menu - nothing fancy, but it saves a hell of a lot of time when you just want to get stuff done quickly.
 
 ---
 
-## 📁 Logs
+## Logs
 
 Every action is logged to `logs/tool_manager.log`. If something fails, check the log.
 
@@ -102,7 +102,7 @@ Every action is logged to `logs/tool_manager.log`. If something fails, check the
 
 ---
 
-## ❓ Real-World Fixes for Real Problems
+## Real-World Fixes for Real Problems
 
 | Problem              | Fix                                                   |
 | -------------------- | ----------------------------------------------------- |
@@ -113,7 +113,7 @@ Every action is logged to `logs/tool_manager.log`. If something fails, check the
 
 ---
 
-## 🛠️ Future Ideas
+## Future Ideas
 
 - Add Linux install support (apt, pacman, etc.)
 - Config file for custom version preferences
@@ -125,7 +125,7 @@ Every action is logged to `logs/tool_manager.log`. If something fails, check the
 
 ## Author
 
-Varadha — built this from scratch as part of FOSSEE Summer Fellowship 2025. Prioritized working code over buzzwords. If you're reading this to evaluate the submission: everything here was written, tested, and structured to actually run without surprises.
+Varadha - built this from scratch as part of FOSSEE Summer Fellowship 2025. Prioritized working code over buzzwords. If you're reading this to evaluate the submission: everything here was written, tested, and structured to actually run without surprises.
 Thank you for reading! 
 
 Name  : Varadharam R S.
